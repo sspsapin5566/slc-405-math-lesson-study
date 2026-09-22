@@ -1,0 +1,5 @@
+.gemini/
+.DS_Store
+output/video.mp4
+output/audio.mp4
+output/audio.mp3
